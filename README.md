@@ -3,11 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailakcabey" alt="ismailakcabey" /></a> </p>
 
-# Work History
-
-- # Full Stack Developer at Abra Partners [Aginies](https://aginies.com/)
-
-- # Business Analyst & Software Developer at PackUpp [PackUpp Fast Delivery System](https://packupp.com/en/)
 
 - 📫 How to reach me **ismailakca399@gmail.com**
 
