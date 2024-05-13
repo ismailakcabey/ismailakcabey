@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Akca</h1>
-<h3 align="center">As a Full Stack Engineer, I am always open to self-improvement and pushing my limits. I possess strong communication and collaboration skills, and I have a professional track record in various industries.</h3>
+<h3 align="center">As a Software Engineer, I am always open to self-improvement and pushing my limits. I possess strong communication and collaboration skills, and I have a professional track record in various industries.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailakcabey" alt="ismailakcabey" /></a> </p>
 
